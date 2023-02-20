@@ -1,8 +1,5 @@
 {
-	"favorite_movies":{ 
-			"first_movie": "Harry Potter",
-			"second_movie": "Home alone"
-				},
+	"favorite_movie": "Harry Potter",
 	 "favorite_series": "Castle",
 	  "favorite_food": "Fried potatoes",
 	   "favorite_season": "Spring",

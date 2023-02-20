@@ -1,0 +1,12 @@
+{
+	"skills_to_be_learned": {
+		"skill_1": "SDLC, STLC",
+		"skill_2": "Json, XML",
+		"skill_3": "API tetsing via Postman",
+		"skill_4": "Mobile testing",
+		"skill_5": "ADB",
+		"skill_6": "Command line Linux",
+		"skill_7": "SQL basic",
+		"skill_8": "Python"
+	}
+}
