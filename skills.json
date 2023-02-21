@@ -1,0 +1,19 @@
+{
+	"skills_of_the_course": {
+		"skill_1": "Basic theory SDLCC, STLC",
+		 "skill_2": "Client-server architecture",
+		  "skill_3": "HTTP",
+		   "skill_4": "API testing with Postman",
+		    "skill_5": "VPN",
+		     "skill_6": "Mobile ttetsing",
+		      "skill_7": "ADB",
+		       "skill_8": "Terminal Linux",
+			"skill_9": "Bash scripting basics",
+			 "skill_10": "SQL basics",
+			  "skill_11": "Postgers database",
+			   "skill_12": "Non-relational database Redis",
+			    "skill_13": "Load testing in Jmeter",
+			     "skill_14": "Scrum development methodology",
+			      "skill_15": "Python"
+	}
+}
