@@ -1,1 +1,11 @@
-
+{
+  "bug_report":{
+   "column_1": "ID",
+    "column_2": "Title",
+     "column_3": "Inputs",
+      "column_4": "Steps",
+       "column_5": "ER",
+        "column_6": "AR",
+         "column_7": "Comment"
+      }
+}
